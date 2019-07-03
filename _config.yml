@@ -1,10 +1,10 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
-author: author
+name: tomsherlock.info
+description: Tom Sherlock - Web Developer
+email: tom.sherlock@ntlworld.com
+author: Tom Sherlock
 lang: en
-locale: en_US
+locale: en_GB
 
 # Jekyll
 paginate: 10
@@ -15,7 +15,7 @@ timezone: America/New_York
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://tomsherlocked.github.io/
 
 # Includes
 addthisId: ""
