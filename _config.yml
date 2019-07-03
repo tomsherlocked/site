@@ -1,38 +1,35 @@
-# Website details
-name: tomsherlock.info
-description: Tom Sherlock - Web Developer
-email: tom.sherlock@ntlworld.com
-author: Tom Sherlock
-lang: en
-locale: en_GB
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Jekyll
-paginate: 10
-highlighter: rouge
-markdown: kramdown
-plugins: [jekyll-paginate]
-timezone: America/New_York
-paginateLabel: page
-paginate_path: "page/:num"
-permalink: /:categories/:year/:month/:day/:title
-baseurl: https://tomsherlocked.github.io/
+# Setup
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io
+baseurl:          '/hydeout'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# Includes
-addthisId: ""
-disqusUsername: ""
-googleAnalyticsId: ""
+author:
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
-# Search engine verifications
-bing: ""
-yandex: ""
-google: ""
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-# Sitemap
-sitemap:
-  file: "/sitemap.xml"
-  exclude:
-    - "/404.html"
-  include_posts:
-    - "/index.html"
-  change_frequency_name: "daily"
-  priority_name: "1.00"
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
