@@ -2,7 +2,8 @@
 layout: post
 title: Some Music. Finally.
 tags: [life,music]
-category : Music
+categories:
+  - Music
 excerpt_separator:  <!--more-->
 ---
 The day has finally come, the record deal has been signed, CDs pressed, thousands of fans waiting for the release, etc etc.
