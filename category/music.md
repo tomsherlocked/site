@@ -1,6 +1,6 @@
 ---
 layout: category
-title: music
+title: Music
 ---
 
 Muuuusic goes here
