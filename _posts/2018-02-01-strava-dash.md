@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A mile a day Strava dashboard
+tags: [projects]
 excerpt_separator:  <!--more-->
 ---
 I’ve been a semi-regular runner since about 2014, when I was briefly inspired to join the navy, so needed to be able to run. Since then, I’ve gone through a series of peaks and troughs in commitment, in a 6 month cycle that has me highly motivated, building up to running a few 5-10k events, then overtraining, getting injured, and stopping for a while. I thought for 2018 I’d aim for a consistent year, and try to avoid too many overtraining injuries, by setting myself of an average of 1 mile a day measured on a 7 day rolling period. This averages out as running 10k a week, (or 5k twice) plus another short recovery run. To track this I decided to create a Strava dashboard using a 7inch touchscreen and my Raspberry Pi 0, which so far has had little use. I planned to have it show a series of graphs & charts showing metrics, and then mount it on the wall to keep me motivated. Simples.

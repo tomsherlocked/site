@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Things
-tags: [web, jekyll]
+tags: [life, uni]
 
 excerpt_separator:  <!--more-->
 ---
