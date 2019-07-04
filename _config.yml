@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Tomsherlock.info
-tagline:          Dev words
-description:      'Longer dev words'
+title:            Tom Sherlock
+tagline:          fullstack web developer
+description:      Web developer, recently graduated degree apprentice, hobby guitarist/producer.
 url:              https://tomsherlocked.github.io
 baseurl:          #'/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
