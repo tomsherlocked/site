@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New Things
+tags: [web, jekyll]
+
 excerpt_separator:  <!--more-->
 ---
 
