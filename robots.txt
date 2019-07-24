@@ -1,0 +1,2 @@
+User-agent: *
+SITEMAP: http://tomsherlock.info/sitemap.xml
