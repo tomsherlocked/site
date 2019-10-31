@@ -7,10 +7,10 @@ excerpt_separator:  <!--more-->
 ---
 Ok, it's time to get set up for the winter. Summer 2019 got me way more into riding for fitness, and I'm hoping to have a better 2020. I usually commit everything to a new training plan, overtrain, then end up [massively underachieving](https://tomsherlock.info/2018/02/01/strava-dash.html) due to injury. I'd like to __not__ do that this time, so touch wood things will be ok!
 
-For this winter, I've decided to keep things simple and (hopefully) realistic. Over the summer I was fitting in 1 or 2 shorter interval sessions during the week (usually an hour on road), a long road ride each weekend then a recovery mountain bike ride. Since getting a decent spec mountain bike, I've been swapping out the longer road ride for a longer MTB ride. I want to keep this up, whilst reamaining under the threshold for injury. With no high-pressure events in the near future, I'll hopefully be able to get in some decent training blocks, with the option to be flexible too.
+For this winter, I've decided to keep things simple and (hopefully) realistic. Over the summer I was fitting in 1 or 2 shorter interval sessions during the week (usually an hour on road), a long road ride each weekend then a recovery mountain bike ride. Since getting a decent spec mountain bike, I've been swapping out the longer road ride for a longer MTB ride. I want to keep this up, whilst remaining under the threshold for injury. With no high-pressure events in the near future, I'll hopefully be able to get in some decent training blocks, with the option to be flexible too.
 
 ### Aims
-- Bikepacking - With some smaller sub-24hours under my belt, I really want to get some longer routes completed. No solid plans, but the South Downs Way with a overnight Bivi looks good as a starter. After that, maybe some of the shorter events from [The Racing Collective](https://www.theracingcollective.com/)
+- Bikepacking - With some smaller sub-24hours under my belt, I really want to get some longer routes completed. No solid plans, but the South Downs Way with a overnight Bivi looks good as a starter. After that, maybe some of the shorter events from [The Racing Collective](https://www.theracingcollective.com/).
 - Audaxes - Starting at 100k, hoping to increase to 200/300k by the end of the year.
 - Cyclocross - No firm plans, but the Wessex Cyclocross league has some great beginner events.
 
