@@ -13,3 +13,5 @@ I have extensive project experience in Data Analysis & visualisation, user inter
 Since 2018, I've been involved in the teaching & running of the IBM Digital Skills Academy, teaching technical development skills alongside business and Design Thinking techniques. Since it's inception, I've personally taught over 200 Early Professionals in the basics of Web Development, Cloud Native Architecture, and low-code/IoT devices.
 
 I graduated with First Class honours as a Computer Science/Business Degree Apprentice from Queen Mary University London in July 2019. In 2017, I won the South-East UK Degree Apprentice of the Year, and finished in the final 10 for the 2016, 2017, and 2018 TargetJobs Apprentice of the Year awards.
+
+Please [contact me](MAILTO:tom.sherlock@ntlworld.com) if you want to have a chat!
