@@ -3,10 +3,13 @@ layout: page
 title: About
 sidebar_link: true
 ---
-I’m an Agile certified fullstack developer based in IBM’s Rapid Prototyping team, working early in the pre-sales stage to use a “show not tell” approach with clients.
 
-My main skills are in Node.js (with Vue.js) on IBM Cloud, using Cloudant/MongoDB or SQL, using a TDD approach with something like Mocha. I have Additional project experience with React, Hyperledger Composer & DB2 and basic proficiency in Java, Python, PHP, and with AWS. I have a strong interest in dev/ops, CI/CD, TDD & automation.
+### Tom Sherlock
 
-From 2015-2019 I was studying part time for a degree in Computer Science with Business at Queen Mary University London, as part of the pilot for IBM's Degree Apprenticeship Scheme. I'm due to graduate with First Class Honours in July 2019.
+Experienced fullstack developer, currently working as Lead Developer in IBM's Rapid Prototyping Team. I code mostly in Node.js, using Vue.js or React.js to build innovative user experiences for enterprise clients. I've been Agile certified & Design Thinking trained since 2017, and use the best of these techniques to add value to client's projects as quickly as possible.
 
-I was the winner of 2017 South East Degree Apprentice of the Year, Highly commended 2017 National Apprentice of the Year. I finished in the final 10 for both 2016 and 2018 TargetJobs Apprentice of the Year awards, and in the final 10 in the BCS IT Apprentice of the Year.
+I have extensive project experience in Data Analysis & visualisation, user interface testing, and using IBM's Watson APIs. I've also got a strong interest in Cloud Native development, using CI/CD and DevOps techniques on OpenShift/K8s based platforms.
+
+Since 2018, I've been involved in the teaching & running of the IBM Digital Skills Academy, teaching technical development skills alongside business and Design Thinking techniques. Since it's inception, I've personally taught over 200 Early Professionals in the basics of Web Development, Cloud Native Architecture, and low-code/IoT devices.
+
+I graduated with First Class honours as a Computer Science/Business Degree Apprentice from Queen Mary University London in July 2019. In 2017, I won the South-East UK Degree Apprentice of the Year, and finished in the final 10 for the 2016, 2017, and 2018 TargetJobs Apprentice of the Year awards.
