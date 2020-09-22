@@ -3,7 +3,7 @@ layout: post
 title: Rhubarb & Rubber Plants Jekyll site
 tags: [projects]
 categories:
-  - projects
+  - Projects
 
 excerpt_separator: <!--more-->
 ---
