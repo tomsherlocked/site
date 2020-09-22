@@ -2,8 +2,8 @@
 layout: post
 title: Rhubarb & Rubber Plants Jekyll site
 tags: [projects]
-categories:
-  - projects
+# categories:
+#   - projects
 
 excerpt_separator: <!--more-->
 ---
