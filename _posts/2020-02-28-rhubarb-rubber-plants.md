@@ -2,6 +2,8 @@
 layout: post
 title: Rhubarb & Rubber Plants Jekyll site
 tags: [projects]
+categories:
+  - projects
 
 excerpt_separator: <!--more-->
 ---
@@ -14,5 +16,8 @@ A quick project to get my partner up and running on a free, lightweight blogging
 
 We found a domain name and hooked that up too, then after a quick intro to GitHub she was good to go! Blog posts get added into the root directory as a markdown `.md` file, with a basic bit of YAML-like syntax at the start to add in the tags and layout template.
 
-Check it out [here](https://rhubarbandrubberplants.co.uk/)
 ![frontpage](/assets/images/rhubarb1.png){:class="img-responsive"}
+
+It's super simple, free apart from the DNS registration, and using GitHub pages makes things a lot more simple than a lot of other options.
+
+Check it out [here](https://rhubarbandrubberplants.co.uk/)!
