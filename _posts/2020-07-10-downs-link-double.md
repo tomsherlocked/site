@@ -15,7 +15,7 @@ With the extra time on my hands, I decided to build a quick website for an Indiv
 I decided to encourage an ITT/FKT type event in the [Self Supported UK](http://www.selfsupporteduk.net/) style, that people could attempt solo, and in a day. By running the route as an out-and-back double, starting and finishing at the Downs Link start point,you get a solid day out of about 120km, almost all on gravelly doubletrack, with little elevation change.
 
 A quick Materialize CSS website allowed me to create all the necessary pages and give riders necessary information to complete it, without stopping off and breaking social-distancing.
-![frontpage](/assets/images/downslink.png){:class="img-responsive"}al
+![frontpage](/assets/images/downslink1.png){:class="img-responsive"}
 
 Unfortunately, I've not been able to get out and put down a time for either the single or double yet as my gravel bike's been out of action, but I'm hoping to get one in before winter slows things down too much.
 
